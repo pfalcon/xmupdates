@@ -706,17 +706,17 @@
         },
         {
             "downloadMenuId": 6,
-            "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMzk=",
-            "id": 1614,
-            "name": "General_XM510_50X10-SW_WIFIXM712.712",
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDAyOTY=",
+            "id": 1752,
+            "name": "XM510_50X10-SW_WIFINVRXM712.712",
             "usage": "",
             "version": "00023655.1"
         },
         {
             "downloadMenuId": 6,
-            "downloadUrl": "https://download.xm030.cn/d/MDAwMDAyOTY=",
-            "id": 1752,
-            "name": "XM510_50X10-SW_WIFINVRXM712.712",
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMzk=",
+            "id": 1614,
+            "name": "General_XM510_50X10-SW_WIFIXM712.712",
             "usage": "",
             "version": "00023655.1"
         },
@@ -1346,17 +1346,17 @@
         },
         {
             "downloadMenuId": 6,
-            "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzNDg=",
-            "id": 2067,
-            "name": "XM535_80X30T.Nat.dss",
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzMzQ=",
+            "id": 2018,
+            "name": "IPC_XM530_80X30T.Nat.dss.OnvifS.HIK",
             "usage": "",
             "version": "000309ED.1"
         },
         {
             "downloadMenuId": 6,
-            "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzMzQ=",
-            "id": 2018,
-            "name": "IPC_XM530_80X30T.Nat.dss.OnvifS.HIK",
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzNDg=",
+            "id": 2067,
+            "name": "XM535_80X30T.Nat.dss",
             "usage": "",
             "version": "000309ED.1"
         },
